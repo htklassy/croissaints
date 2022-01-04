@@ -1,0 +1,29 @@
+body {
+  font-family: "Courier New", Courier, monospace;
+  background-color: rgb(236, 235, 233);
+}
+h1 {
+  text-align: center;
+  font-size: 60px;
+}
+p {
+  text-align: center;
+  margin: 100px;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  text-decoration: underline;
+  color: goldenrod;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
+.links {
+  display: block;
+  margin: 50px auto;
+  text-align: center;
+}
